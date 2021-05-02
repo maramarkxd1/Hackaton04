@@ -1,258 +1,264 @@
 body {
-  margin: 0;
-  background-image: url(https://lh3.googleusercontent.com/proxy/YjpRdpWF25uvD3F8fcyNIN9meDVEdd6HFeh4LdXA9cU5VNwtpiOnwOiv5R3ejk1m2s9HEoiUu6lvvQcd370);
-  background-size: cover;
+    margin: 0;
+    background-image: url(https://lh3.googleusercontent.com/proxy/YjpRdpWF25uvD3F8fcyNIN9meDVEdd6HFeh4LdXA9cU5VNwtpiOnwOiv5R3ejk1m2s9HEoiUu6lvvQcd370);
+    background-size: cover;
 }
 * {
-  padding: 0;
-  border: 0;
-  box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
 }
 .cuadro1 {
-  background-image: url(https://i.pinimg.com/564x/3e/97/8e/3e978e5e2146bdfc522a196a6986ef84.jpg);
-  background-size: cover;
-  width: 60%;
-  margin: auto;
-  margin-top: 15em;
-  margin-bottom: 15em;
-  padding: 5em;
-  box-sizing: content-box;
+    background-image: url(https://i.pinimg.com/564x/3e/97/8e/3e978e5e2146bdfc522a196a6986ef84.jpg);
+    background-size: cover;
+    width: 60%;
+    margin: auto;
+    margin-top: 15em;
+    margin-bottom: 15em;
+    padding: 5em;
+    box-sizing: content-box;
 }
 nav {
-  display: block;
-  position: relative;
+    display: block;
+    position: relative;
 }
 .menu {
-  text-align: right;
-  margin: 0;
-  position: absolute;
-  right: 5em;
+    text-align: right;
+    margin: 0;
+    position: absolute;
+    right: 5em;
+    
 }
 .menu li {
-  display: inline-block;
-  margin-right: 20px;
+    display: inline-block;
+    margin-right: 20px;
 }
 .menu .boton {
-  background-color: rgba(48, 104, 48, 0.37);
-  border-radius: 30px;
-  padding: 10px;
+    background-color: rgba(48, 104, 48, 0.37);
+    border-radius: 30px;
+    padding: 10px;
 }
 .menu a {
-  color: white;
-  text-decoration: none;
-  font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
 }
 .icono1 {
-  width: 60px;
-  height: 80px;
-  background-image: url(https://static.vecteezy.com/system/resources/previews/001/188/470/non_2x/fire-icon-png.png);
-  background-size: cover;
-  position: relative;
-  top: 3em;
+    width: 60px;
+    height: 80px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/188/470/non_2x/fire-icon-png.png);
+    background-size: cover;
+    position: relative;
+    top: 3em;
+    
 }
 .contenido1 {
-  width: 1024px;
-  margin: auto;
-  margin-top: 10em;
+    width: 1024px;
+    margin: auto;
+    margin-top: 10em;
 }
 .contenido1 .izquierda {
-  width: 512px;
-  display: inline-block;
-  vertical-align: super;
-  position: relative;
-  bottom: 10em;
+    width: 512px;
+    display: inline-block;
+    vertical-align: super;
+    position: relative;
+    bottom: 10em;
 }
 .contenido1 .derecha {
-  display: inline-block;
+    display: inline-block;
 }
 .contenido2 {
-  margin: auto;
-  display: flex;
+    margin: auto;
+    display: flex;
 }
 .contenido2 .izquierda2 {
-  width: 30%;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  margin: 1em;
-  border-radius: 2em;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color: rgba(1, 90, 71, 0.794);
+    margin: 1em;
+    border-radius: 2em;
 }
 .contenido2 .centro2 {
-  width: 30%;
-  display: inline-block;
-  padding: 1em;
-  padding-bottom: 3em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  margin: 1em;
-  border-radius: 2em;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    padding-bottom: 3em;
+    text-align: center;
+    background-color: rgba(1, 90, 71, 0.794);
+    margin: 1em;
+    border-radius: 2em;
 }
 .contenido2 .derecha2 {
-  width: 30%;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  margin: 1em;
-  border-radius: 2em;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color: rgba(1, 90, 71, 0.794);
+    margin: 1em;
+    border-radius: 2em;
+   
 }
 .icono {
-  width: 30px;
+    width: 30px;
+    
 }
 .contenido3 {
-  width: 1024px;
-  margin: auto;
+    width: 1024px;
+    margin: auto;
+    margin-left: 15em;
 }
 .contenido3 .izquierda3 {
-  width: 250px;
-  height: 300px;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    
+
 }
 .contenido3 .derecha3 {
-  width: 400px;
-  height: 500px;
-  background-image: url(https://4.bp.blogspot.com/-fNz0PGy-Z4o/XH2yZ8qAXVI/AAAAAAAAIiM/jBlQpwGm4gYc8aArHdnnu281chHzm7U-QCLcBGAs/s1600/Personagem%2B2.png);
-  background-size: cover;
-  display: inline-block;
+    width: 400px;
+    height: 500px;
+    background-image: url(https://4.bp.blogspot.com/-fNz0PGy-Z4o/XH2yZ8qAXVI/AAAAAAAAIiM/jBlQpwGm4gYc8aArHdnnu281chHzm7U-QCLcBGAs/s1600/Personagem%2B2.png);
+    background-size: cover;
+    display: inline-block;
 }
 .contenido4 {
-  width: 1024px;
-  margin: auto;
+    width: 1024px;
+    margin: auto;
+    margin-left: 15em;
 }
 .contenido4 .izquierda4 {
-  width: 400px;
-  height: 500px;
-  background-image: url(https://4.bp.blogspot.com/-fNz0PGy-Z4o/XH2yZ8qAXVI/AAAAAAAAIiM/jBlQpwGm4gYc8aArHdnnu281chHzm7U-QCLcBGAs/s1600/Personagem%2B2.png);
-  background-size: cover;
-  display: inline-block;
+    width: 400px;
+    height: 500px;
+    background-image: url(https://4.bp.blogspot.com/-fNz0PGy-Z4o/XH2yZ8qAXVI/AAAAAAAAIiM/jBlQpwGm4gYc8aArHdnnu281chHzm7U-QCLcBGAs/s1600/Personagem%2B2.png);
+    background-size: cover;
+    display: inline-block;
 }
 .contenido4 .derecha4 {
-  width: 250px;
-  height: 300px;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
 }
 .contenido5 {
-  margin: auto;
-  display: flex;
+    margin: auto;
+    display: flex;
 }
 .contenido5 .izquierda5 {
-  width: 30%;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  margin: 1em;
-  border-radius: 2em;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color:rgba(1, 90, 71, 0.794);
+    margin: 1em;
+    border-radius: 2em;
 }
 .contenido5 .centro5 {
-  width: 30%;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  margin: 1em;
-  border-radius: 2em;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color: rgba(1, 90, 71, 0.794);
+    margin: 1em;
+    border-radius: 2em;
 }
 .contenido5 .derecha5 {
-  width: 30%;
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  margin: 1em;
-  border-radius: 2em;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color: rgba(1, 90, 71, 0.794);
+    margin: 1em;
+    border-radius: 2em;
 }
 .textox {
-  position: relative;
-  text-align: center;
+    position: relative;
+    text-align: center;
 }
 .contenido6 {
-  margin: auto;
-  display: flex;
+    margin: auto;
+    display: flex;
 }
 .contenido6 .izquierda6 {
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  border-radius: 2em;
-  -webkit-box-shadow: 5px 5px 15px 5px #000000;
-  box-shadow: 5px 5px 15px 5px #6d6969;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color: rgba(1, 90, 71, 0.794);
+    border-radius: 2em;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #6d6969;  
 }
 .contenido6 .centro6 {
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  border-radius: 2em;
-  z-index: 10;
-  -webkit-box-shadow: 5px 5px 15px 5px #383535;
-  box-shadow: 5px 5px 15px 5px #2c2b2b;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color:rgba(1, 90, 71, 0.794);
+    border-radius: 2em;
+    z-index: 10;
+    -webkit-box-shadow: 5px 5px 15px 5px #383535; 
+    box-shadow: 5px 5px 15px 5px #2c2b2b; 
 }
 .contenido6 .derecha6 {
-  display: inline-block;
-  padding: 1em;
-  text-align: center;
-  background-color: rgba(1, 90, 71, 0.794);
-  border-radius: 2em;
-  -webkit-box-shadow: 5px 5px 15px 5px #000000;
-  box-shadow: 5px 5px 15px 5px #6d6969;
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    background-color:rgba(1, 90, 71, 0.794);
+    border-radius: 2em;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #6d6969; 
 }
 .contenido7 {
-  margin: auto;
-  padding: 1em;
-  text-align: center;
-  margin-top: 5em;
-  color: rgb(160, 228, 186);
-  background-color: rgba(1, 90, 71, 0.794);
-  border-radius: 2em;
+    margin: auto;
+    padding: 1em;
+    text-align: center;
+    margin-top: 5em;
+    color: rgb(160, 228, 186);
+    background-color: rgba(1, 90, 71, 0.794);
+    border-radius: 2em;
 }
 .boton5 {
-  background-color: rgb(24, 93, 24);
-  color: rgb(138, 233, 157);
-  border-radius: 2em;
+    background-color: rgb(24, 93, 24);
+    color: rgb(138, 233, 157);
+    border-radius: 2em;
 }
 .rev {
-  position: relative;
+    position: relative;
 }
 footer {
-  display: flex;
-  position: relative;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-top: 5em;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 5em;
 }
 
 .menu2 {
-  display: flex;
-  margin-right: 20px;
+    display: flex;
+    margin-right: 20px;
 }
 .heading {
-  display: flex;
-  flex-direction: column;
-  margin-right: 2em;
+    display: flex;
+    flex-direction: column;
+    margin-right: 2em;
 }
 a {
-  text-decoration: none;
+    text-decoration: none;
 }
 .banner {
-  margin-right: 9em;
+    margin-right: 9em;
 }
 .linea {
-  color: rgb(8, 87, 41);
+    color: rgb(8, 87, 41);
 }
 .heading h2 {
-  color: rgb(160, 228, 186);
+    color: rgb(160, 228, 186);
 }
-h1,
-h2,
-h3,
-span,
-p {
-  color: rgb(160, 228, 186);
+h1, h2, h3, span, p {
+    color: rgb(160, 228, 186);
 }
+    
